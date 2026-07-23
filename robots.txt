@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-oo847e.ntvplus-yalta.ru/sitemap.xml
